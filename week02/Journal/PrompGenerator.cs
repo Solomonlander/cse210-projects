@@ -1,3 +1,5 @@
+using System;
+
 public class PromptGenerator
 {
     private static string[] prompts = {

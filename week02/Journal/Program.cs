@@ -1,3 +1,5 @@
+using System;
+
 public class JournalProgram
 {
     private static Journal journal = new Journal();
